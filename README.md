@@ -1,1 +1,1 @@
-# PASCAL_VOC
+PASCAL

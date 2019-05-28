@@ -1,0 +1,15 @@
+Download dataset https://pjreddie.com/projects/pascal-voc-dataset-mirror/
+
+pip install --pre --upgrade mxnet-mkl
+
+pip install gluoncv --upgrade
+
+
+
+https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad
+
+https://gluon-cv.mxnet.io/build/examples_datasets/pascal_voc.html#sphx-glr-build-examples-datasets-pascal-voc-py
+
+https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
+
+python3 pascal_voc.py --download-dir /home/pawbiell/Documents/PASCAL_VOC/data
